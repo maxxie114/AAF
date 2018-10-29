@@ -1,0 +1,8 @@
+#this plugin is made by maxxie114 and SumWum
+
+name: ActionAlert
+main: main.java.CWR.Main
+
+version: "1.0.0"
+api: ["1.0.7"]
+author: ["SumWum", "maxxie114"]
